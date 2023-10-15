@@ -10,9 +10,9 @@ class _CardWidgetState extends State<CardWidget> {
   List<News> listCard=[
     News(DateTime(2023,10,11),"Mass shooting in Atlanta",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit Proin sit ame"),
-    News(DateTime(2023,10,11),"Carnival clown found drunk in Misisippi",
+    News(DateTime(2023,10,12),"Carnival clown found drunk in Misisippi",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit Proin sit ame"),
-    News(DateTime(2023,10,11),"Walrus found in family pool in Florida",
+    News(DateTime(2023,10,13),"Walrus found in family pool in Florida",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit Proin sit ame"),
   ];
   @override
