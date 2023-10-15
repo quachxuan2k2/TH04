@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//upadate
 class News{
   DateTime? dateTime;
   String? title;
